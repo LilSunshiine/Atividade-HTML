@@ -1,0 +1,64 @@
+article, section, aside, footer, header, menu, nav, figure, figcaption, hgroup, details {display: block;}
+			#tudo {
+				background: #D3D3D3; border: 1px solid #000;  margin: 30px; width: 635px; height: 445px;
+			}
+			#header {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px 10px 0; height: 61px; padding: 10px;
+			}
+			#top-1 {
+				height: 60.333px;
+			}
+			#opa {
+				text-decoration: none; outline: none; color: #000;" href="#" onmouseover="this.style.color='#fff'" onmouseout="this.style.color='#000'
+			}
+			#oush {
+				font-size: 1em; margin: 0;
+			}
+			#epa {
+				position: relative; top: -56px; left: 370px;
+			}
+			#senorita {
+			width: 182px	
+			}
+			#wonderland {
+				margin: 10px 10px 0; padding: 10px; position: relative; left: 110px; width: 360px; top: -64px; height: 38px;
+			}
+			#dk {
+				list-style-type: none; padding: 0;
+			}
+			li {
+				display: inline;
+			}
+			#nahyo {
+				outline: none;
+			}
+			#content {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px; display: inline-flex; height: 254px; width: 593px; padding: 10px; position: relative; top: -70px
+			}
+			article {
+				background: #D3D3D3; border: 1px solid #000;  margin: 30px 10px; width: 233px; position: absolute; padding: 10px;
+			}
+			#seungmin {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px;
+			}
+			#hyuna {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px;
+			}
+			#felix {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px; padding-bottom: 20px;
+			}
+			#foot {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px;
+			}
+			#sidebar {
+				background: #D3D3D3; border: 1px solid #000; position: relative; top: 30px; left: 124px; height: 102px; padding: 10px; margin-left: 30px
+			}
+			h3 {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px;
+			}
+			#gay {
+				background: #A9A9A9; border: 1px solid #000; margin: 10px;
+			}
+			#footer {
+				background: #A9A9A9; border: 1px solid #000; margin: 0 10px 10px; padding: 10px; position: relative; top: -70px
+			}
